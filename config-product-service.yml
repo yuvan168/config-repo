@@ -1,1 +1,7 @@
 
+spring:
+  application:
+    name: config-product-service
+
+welcome:
+  message: Hello Product Service from Config Server
