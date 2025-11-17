@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-user-service
+
+welcome:
+  message: Hello User Service from Config Server
