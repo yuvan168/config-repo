@@ -1,0 +1,35 @@
+server:
+
+port: 8881
+
+spring:
+
+application:
+
+name: config-server
+
+cloud:
+
+a
+
+config;
+
+2
+
+server:
+
+git:
+
+uri: https://github.com/yuvan168/config-repo.git
+
+Username: yuvan168
+
+password: ghp_TG5hrWiUl0zCHSxJ6JhsytvuiA51ru2MZWqi
+
+clone-on-start: true
+
+default-label: main
+
+timeout: 10
+
+skip-ssi-validation: true
