@@ -1,0 +1,49 @@
+server:
+
+port: 8082
+
+ment booll de
+
+pring:
+
+Datasource:
+
+6 url: jabermysql://localhost:3306/productdb?useSSL=false&serverTimezone=UTC&allowPublicKevRetrie
+
+7 asername: inventory
+
+8 password: inventory123
+
+و
+
+driver-class-name: com.mysql.cj.jdbc.Driver
+
+pa: 10
+
+tyllovasc
+
+12
+
+hibernate: 11
+
+did1-auto: update
+
+ncies
+
+properties: 13
+
+14 hibernate:
+
+sotitces/anno
+
+15
+
+16
+
+dialect: org.hibernate.dialect.MySQLDialect
+
+I
+
+17 cocs:
+
+18 allowed-origins: http://localhost:3000
